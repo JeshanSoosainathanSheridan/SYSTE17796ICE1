@@ -1,7 +1,7 @@
 /*
  * Jeshan Soosainathan
  * Student ID: 991589846
- * SYST10199 - Web Programming
+ * Software Design
  */
 package calcaverage;
 
